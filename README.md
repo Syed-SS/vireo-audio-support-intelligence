@@ -1,4 +1,11 @@
-﻿# Vireo Audio Customer Support & Refund Intelligence
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analytics-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Computing-013243)
+![Status](https://img.shields.io/badge/Project-Portfolio%20Demo-success)
+
+
+ # Vireo Audio Customer Support & Refund Intelligence
 
 A Streamlit-based analytics dashboard for exploring customer support tickets, refund patterns, policy exceptions, SLA performance, data quality, and potential refund anomalies.
 
