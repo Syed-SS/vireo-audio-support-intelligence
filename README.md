@@ -84,3 +84,18 @@ Do not publish confidential, personally identifiable, or otherwise sensitive cus
 Syed Shahed
 
 AI & Data Science | Python | SQL | Power BI | Machine Learning | Generative AI
+## Dashboard Screenshots
+
+Screenshots of the Vireo Audio Customer Support & Refund Intelligence dashboard will be added here.
+
+### Executive Dashboard
+![Executive Dashboard](screenshots/executive-dashboard.png)
+
+### Refund Analytics
+![Refund Analytics](screenshots/refund-analytics.png)
+
+### SLA Intelligence
+![SLA Intelligence](screenshots/sla-intelligence.png)
+
+### Anomaly Detection
+![Anomaly Detection](screenshots/anomaly-detection.png)
