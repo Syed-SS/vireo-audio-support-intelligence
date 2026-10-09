@@ -86,7 +86,7 @@ Syed Shahed
 AI & Data Science | Python | SQL | Power BI | Machine Learning | Generative AI
 ## Dashboard Screenshots
 
-Screenshots of the Vireo Audio Customer Support & Refund Intelligence dashboard will be added here.
+Screenshots of the Vireo Audio Customer Support & Refund Intelligence dashboard.
 
 ### Executive Dashboard
 ![Executive Dashboard](screenshots/executive-dashboard.png)
